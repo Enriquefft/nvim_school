@@ -1,0 +1,17 @@
+   h   ->  izquierda 1
+   l   ->  derecha 1
+   
+   w   ->  palabra adelante
+   b   ->  palabra atras
+   e   ->  final palabra adelante
+   ge  ->  final palabra atras
+   
+   f t ->  buscar adelante
+   F T ->  buscar atras
+   
+   0 ^ ->  ir al inicio de linea/oración
+   $   ->  ir al final de linea
+
+esta es una oración de practica con multiples word
+aqui puñedes pra/cticar la bus9queda. hola
+      que pasa si hay espacio al inicio?
